@@ -16,7 +16,7 @@
         <mxCell id="43Mq4942pUjB6CocNSqJ-4" value="主库" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="43Mq4942pUjB6CocNSqJ-1">
           <mxGeometry x="20" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="43Mq4942pUjB6CocNSqJ-6" value="二进制&lt;div&gt;日志&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#E6D0DE;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=0;strokeColor=#FF9999;fillStyle=hachure;" vertex="1" parent="43Mq4942pUjB6CocNSqJ-1">
+        <mxCell id="43Mq4942pUjB6CocNSqJ-6" value="二进制&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;日志&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;bin log&lt;/span&gt;&lt;/div&gt;" style="shape=card;whiteSpace=wrap;html=1;fillColor=#E6D0DE;sketch=1;curveFitting=1;jiggle=2;shadow=1;rounded=0;strokeColor=#FF9999;fillStyle=hachure;" vertex="1" parent="43Mq4942pUjB6CocNSqJ-1">
           <mxGeometry x="30" y="170" width="80" height="100" as="geometry" />
         </mxCell>
         <mxCell id="43Mq4942pUjB6CocNSqJ-11" value="数据变更" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="43Mq4942pUjB6CocNSqJ-1">
